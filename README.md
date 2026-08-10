@@ -1,1 +1,3 @@
-# ai-trader
+# AI Trader
+
+Personal AI Trading System
