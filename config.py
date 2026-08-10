@@ -1,0 +1,3 @@
+APP_NAME = "AI Trader"
+VERSION = "0.1.0"
+ENVIRONMENT = "DEMO"
